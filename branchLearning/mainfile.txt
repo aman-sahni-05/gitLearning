@@ -1,1 +1,2 @@
 this is new project
+adding frontend to our project
